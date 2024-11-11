@@ -1,5 +1,6 @@
 # DiscordNitroGenerator
 Free discord nitro generator with source code. Enjoy!
+#Made by ZeLiB
 
 # INSTALLATION INSTRUCTIONS
   1. Install Python
