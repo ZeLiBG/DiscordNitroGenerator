@@ -1,4 +1,4 @@
-# DiscordNitroGenerator
+# Discord Nitro Generator
 Free discord nitro generator with source code. Enjoy!
 
 # INSTALLATION INSTRUCTIONS
