@@ -6,9 +6,8 @@ Free discord nitro generator with source code. Enjoy!
   https://www.python.org/downloads/
   2. Add Python on PATH
   https://www.youtube.com/watch?v=91SGaK7_eeY
-  3. Download file
-  4. Open CMD. Go to the command line to your folder. Put this text:
-  pip install -r requirements.txt
-  5. Open START.py
+  3. Download RAR file
+  https://github.com/ZeLiBG/DiscordNitroGenerator/releases/latest
+  4. Open START.bat
 
 # Made by ZeLiB. TYSM FOR INSTALLATION
