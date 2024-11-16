@@ -11,3 +11,4 @@ Free discord nitro generator with source code. Enjoy!
   4. Open START.py
 
 **Made by ZeLiB. TYSM FOR INSTALLATION**
+If it's not difficult for you, leave a star, thank you
