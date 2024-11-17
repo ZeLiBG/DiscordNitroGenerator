@@ -1,5 +1,6 @@
 # Discord Nitro Generator
-Free discord nitro generator with source code. Enjoy!
+Free discord nitro generator with source code. Enjoy!  
+MADE FOR STUDY PURPOSES ONLY!
 
 # INSTALLATION INSTRUCTIONS
   1. Install Python
