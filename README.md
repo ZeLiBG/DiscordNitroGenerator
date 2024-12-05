@@ -2,6 +2,9 @@
 Free discord nitro generator with source code. Enjoy!  
 MADE FOR STUDY PURPOSES ONLY!
 
+> **For faster generation, I recommend using my API Key Generator**    
+> [Api Key Generator](https://github.com/ZeLiBG/ApiKeyGenerator)
+
 # INSTALLATION INSTRUCTIONS
   1. Install Python
   https://www.python.org/downloads/
