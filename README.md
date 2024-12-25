@@ -1,5 +1,6 @@
 # Discord Nitro Generator
-Free discord nitro generator with source code. Enjoy!  
+**I made the final update, maybe someday I'll add something else.**<br>
+<br>Free discord nitro generator with source code. Enjoy!  
 MADE FOR STUDY PURPOSES ONLY!
 
 > **For faster generation, I recommend using my API Key Generator**    
